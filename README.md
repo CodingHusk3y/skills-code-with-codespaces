@@ -5,6 +5,7 @@
 Hey CodingHusk3y!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+GitHub Codespaces is a development environment that is hosted in the cloud.
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
